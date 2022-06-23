@@ -103,7 +103,7 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
-              "text": "Free shipping available on all orders!",
+              "text": "Free Shipping is available for all orders",
               "color_scheme": "background-1",
               "link": ""
             }
@@ -119,6 +119,7 @@
         "type": "header",
         "settings": {
           "color_scheme": "background-1",
+          "logo": "shopify:\/\/shop_images\/Dawn_logo_90x_1.webp",
           "logo_width": 90,
           "logo_position": "middle-left",
           "menu": "main-menu",
